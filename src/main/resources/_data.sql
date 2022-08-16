@@ -1,0 +1,1 @@
+-- insert into Task (DESCRIPTION, SCORE, STATUS, TITLE) VALUES ('Descrição', '240', '1', 'TITULO');
